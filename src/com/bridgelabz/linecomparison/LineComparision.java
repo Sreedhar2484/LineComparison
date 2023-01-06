@@ -6,7 +6,7 @@ public class LineComparision{
 
     public static void main(String[] args) {
         System.out.println("Welcome to Line Comparison Computation Program");
-        // UC1 calculating length of line between two points
+       
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter point x1: ");
@@ -41,6 +41,7 @@ public class LineComparision{
         }
         
         sc.close();
+
     }
 }
 
